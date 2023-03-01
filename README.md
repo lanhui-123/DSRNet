@@ -9,10 +9,15 @@ After the paper is officially released, we will provide more results and code.
 # Description
 
 images: test results on Middlebury dataset with different sampling factor (x2, x4, x8, x16).
+
 SRNet_2: test code of sampling factor x2
+
 SRNet_4: test code of sampling factor x4
+
 SRNet_8: test code of sampling factor x8
+
 SRNet_16: test code of sampling factor x16
+
 
 ![github](https://user-images.githubusercontent.com/55533905/222022366-14e3ac86-c1b3-4be9-9070-f8e0d8140f44.png)
 
