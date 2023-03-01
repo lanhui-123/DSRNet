@@ -1,0 +1,14 @@
+# DSRNet
+
+This is the official code of "DSRNet: Depth Super-Resolution Network Guided by Blurry Depth and Clear Intensity Edges", 
+the Preprint submitted to Signal Processing: Image Communication
+
+DSRNet is a color guided depth super-resolution method, this is a part of code and result images. 
+After the paper is officially released, we will provide more results and code
+
+![github](https://user-images.githubusercontent.com/55533905/222022366-14e3ac86-c1b3-4be9-9070-f8e0d8140f44.png)
+
+In this figure, (a) is the HR color image, (b) is the interpolated HR depth map by bicubic, and (c) is the SR depth map by DSRNet
+
+Dependencies
+pytorch 1.8.0
